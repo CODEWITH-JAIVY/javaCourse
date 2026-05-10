@@ -1,4 +1,7 @@
 package com.jaivyLearing.RuntimeError;
 
-public class CustomeExceptionForPassword {
+public class CustomeExceptionForPassword extends  Exception {
+    public  CustomeExceptionForPassword ( String massage ) {
+        super( massage );
+    }
 }

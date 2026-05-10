@@ -2,7 +2,7 @@ package com.day01interphaseinlambada;
 
 
  interface parent {
-    void say() ;
+//    void say() ;
   default void sayHello(){
       System.out.println("Hello ");
   }
@@ -10,13 +10,11 @@ package com.day01interphaseinlambada;
 }
  public class childs implements parent {
 
-     @Override
-     public void say() {
-
-     }
-
-     @Override
+//     @Override
      public void sayHello() {
-         parent.super.sayHello();
+//         parent.super.sayHello();
+         System.out.println("Child say hello ");
      }
+
  }
+

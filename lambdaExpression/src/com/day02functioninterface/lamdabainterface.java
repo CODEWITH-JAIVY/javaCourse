@@ -1,6 +1,9 @@
 package com.day02functioninterface;
 
 @FunctionalInterface
-public interface landabainterface {
-     void display(String str );
+public interface lamdabainterface {
+    //void display(String str );
+    int display(int a, int b);
+
+
 }

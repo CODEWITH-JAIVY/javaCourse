@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class Car extends Vehicle {
 
-public class car {
+    Car(String vehicleNumber) {
+        super(vehicleNumber, VehicleType.CAR);
+    }
 }

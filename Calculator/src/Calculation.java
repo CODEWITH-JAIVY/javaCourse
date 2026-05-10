@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public interface Calculation {
+  interface  Calculation {
+      void  Calculate( int a , int b  ) ;
 }

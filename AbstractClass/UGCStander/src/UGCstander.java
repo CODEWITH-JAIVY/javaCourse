@@ -1,4 +1,14 @@
-package PACKAGE_NAME;
+abstract public class UGCstander {
+    void ProvidedInfratucherDetail() { // concreate method
+        System.out.println("ClassRoom , lab , libraries");
+    }
 
-public class UGCstander {
+    // abstract method
+    abstract void HireFaculty();
+
+    abstract void Conductexam();
+
+    abstract void defineCurruculem();
+
+
 }

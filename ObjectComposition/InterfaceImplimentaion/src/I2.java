@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public interface I2 {
+    void f2() ;
 }

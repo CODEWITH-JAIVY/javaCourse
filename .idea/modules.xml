@@ -5,18 +5,32 @@
       <module fileurl="file://$PROJECT_DIR$/CalculateArea/CalculateArea.iml" filepath="$PROJECT_DIR$/CalculateArea/CalculateArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorChaining/ConstructorChaining.iml" filepath="$PROJECT_DIR$/ConstructorChaining/ConstructorChaining.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateTimeAPL/DateTimeAPL.iml" filepath="$PROJECT_DIR$/DateTimeAPL/DateTimeAPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parkingLotSystem/Duriing InterviewPreparation/Duriing InterviewPreparation.iml" filepath="$PROJECT_DIR$/parkingLotSystem/Duriing InterviewPreparation/Duriing InterviewPreparation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingErrors/ExceptionHandlingErrors.iml" filepath="$PROJECT_DIR$/ExceptionHandlingErrors/ExceptionHandlingErrors.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectComposition/InterfaceImplimentaion/InterfaceImplimentaion.iml" filepath="$PROJECT_DIR$/ObjectComposition/InterfaceImplimentaion/InterfaceImplimentaion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/Library Management System/Library Management System.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multitreading/Multitreading.iml" filepath="$PROJECT_DIR$/Multitreading/Multitreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectComposition/ObjectComposition.iml" filepath="$PROJECT_DIR$/ObjectComposition/ObjectComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/STRING/STRING.iml" filepath="$PROJECT_DIR$/STRING/STRING.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStatememt/SwitchStatememt.iml" filepath="$PROJECT_DIR$/SwitchStatememt/SwitchStatememt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketCounter/TicketCounter.iml" filepath="$PROJECT_DIR$/TicketCounter/TicketCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractClass/UGCStander/UGCStander.iml" filepath="$PROJECT_DIR$/AbstractClass/UGCStander/UGCStander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorChaining/constructorChain/constructorChain.iml" filepath="$PROJECT_DIR$/ConstructorChaining/constructorChain/constructorChain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/funtionOverloading/funtionOverloading.iml" filepath="$PROJECT_DIR$/funtionOverloading/funtionOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaCourse.iml" filepath="$PROJECT_DIR$/.idea/javaCourse.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdaExpression/lambdaExpression.iml" filepath="$PROJECT_DIR$/lambdaExpression/lambdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodoverriding/methodovering.iml" filepath="$PROJECT_DIR$/methodoverriding/methodovering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parkingLotSystem/parkingLotSystem.iml" filepath="$PROJECT_DIR$/parkingLotSystem/parkingLotSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaExpression/test/test.iml" filepath="$PROJECT_DIR$/lambdaExpression/test/test.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public interface CaclculationOfArea {
+  interface CaclculationOfArea  {
+      void calculationDouble () ;
 }

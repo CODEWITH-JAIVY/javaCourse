@@ -1,4 +1,15 @@
 package com.day01interphaseinlambada;
 
-public interface child {
+@FunctionalInterface
+public interface child  {
+    void sayhello();
+
+    public static void main(String[] args) {
+        child ch = new child() {
+            @Override
+            public void sayhello() {
+
+            }
+        };
+    }
 }

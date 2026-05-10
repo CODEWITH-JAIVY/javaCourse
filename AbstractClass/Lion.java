@@ -1,4 +1,8 @@
 package AbstractClass;
 
-public class Lion {
-}
+ public class Lion extends  Animal {
+
+     void MakeNoise () {
+         System.out.println(" Roar ");
+     }
+ }
